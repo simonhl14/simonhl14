@@ -34,5 +34,3 @@
  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simonhl14&theme=dark)](https://git.io/streak-stats)
-![simonhl14 Hub stats](https://github-readme-stats.vercel.app/api?username=simonhl14&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonhl14&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
